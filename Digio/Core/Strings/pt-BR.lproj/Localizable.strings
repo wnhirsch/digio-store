@@ -1,0 +1,12 @@
+// MARK: - Error
+"error.title" = "Erro";
+"error.tryAgain" = "Tentar novamente";
+"error.cancel" = "Cancelar";
+
+"error.decodingError" = "Houve um problema durante o manuseio dos dados.";
+"error.networkError" = "Houve um problema para obter os dados.";
+"error.unknown" = "Erro desconhecido.";
+
+// MARK: - Store Home
+"store.products" = "Produtos";
+"store.welcome" = "Olá, %@";
